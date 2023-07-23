@@ -5,7 +5,7 @@ back : ./src/main/java/com/example/thymeleaftour/controller/HomeController.java
 ```
 
 
-#Spring Boot and Thymeleaf Example
+#Spring Boot and Thymeleaf Example Guide
 
 Build a simple Hello World application using Spring Boot and Thymeleaf
 
